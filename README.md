@@ -4,7 +4,7 @@ This repository is meant to collect notes and work on the PCMI XML Equivariant S
 Problem Statement:  Define equivariant stable homotopy groups. Find examples of nontrivial elements in the equivariant stable homotopy groups of spheres. Compute the 0-th equivariant stable homotopy group of the sphere S^0 with trivial G-action.
 
 Goals for Monday:
-a. Read the Guillou notes (with emphasis on Chapter finishing Chapter 1, and getting through most of Chapter 2)
+a. Read the Guillou notes (with emphasis on finishing Chapter 1, and getting through most of Chapter 2)
 b. After reading the Guillou notes decide on Monday how to distribute work related to taking notes for different sections
 
 **Note**: The presentations are 10 minutes long, and will be done on Beamer.
