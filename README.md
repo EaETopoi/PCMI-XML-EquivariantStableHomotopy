@@ -9,7 +9,7 @@ Presentation Outline: (each topic ~2 mins) - Link to overleaf document: https://
 3. Equivariant spectra and definition of equivariant stable homotopy groups (Ea E)
 4. Theorem for computing the equivariant sphere spectrum, $\pi_0(S^0_G)$, plus Burnside computation examples (Alice)
 
-**Note**: The presentations are ~8 minutes long, and will be done on Beamer.
+**Note**: The presentations are 10 minutes long with 2 minutes for questions, and will be done on Beamer.
 
 A list of resources on Equivariant stable homotopy theory can be found at https://www.homotopytheory.info/g-spectra, but more specifically main references are:
 1. Peter May - Equivariant Homotopy and Cohomology Theory (specifically Chapter IX), which can be accessed at https://www.math.uchicago.edu/~may/BOOKS/alaska.pdf
