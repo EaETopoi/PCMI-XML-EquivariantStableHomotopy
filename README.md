@@ -3,7 +3,7 @@ This repository is meant to collect notes and work on the PCMI XML Equivariant S
 
 Problem Statement:  Define equivariant stable homotopy groups. Find examples of nontrivial elements in the equivariant stable homotopy groups of spheres. Compute the 0-th equivariant stable homotopy group of the sphere S^0 with trivial G-action.
 
-Presentation Outline: (each topic ~2 mins)
+Presentation Outline: (each topic ~2 mins) - Link to overleaf document: https://www.overleaf.com/3233396327scdrwdnwmnqt#b28772
 1. Non-equivariant stable homotopy, motivating spectra (Trishan)
 2. Rep spheres with examples for how they are a generalization of normal spheres (e.g. $S^{\sigma}$ where $\sigma$ is the regular representation of $C_2$ versus $S^2$) (Seth)
 3. Equivariant spectra and definition of equivariant stable homotopy groups (Ea E)
